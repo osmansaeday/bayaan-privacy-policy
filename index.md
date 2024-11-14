@@ -7,53 +7,72 @@ Bayaan ("we," "our," or "us") is committed to protecting your privacy. This Priv
 
 ## Information We Collect
 
-### Authentication Data
-When you create an account, we collect:
-- Email address
-- Authentication tokens
-- Basic profile information
+### User-Provided Information
+- Email address (when you create an account)
+- Authentication credentials
+- User preferences and settings
 
-### Usage Data
-We collect data about how you interact with the app:
+### Automatically Collected Information
+We collect:
+- Device information (model, operating system)
+- App usage statistics
 - Audio playback preferences
-- App preferences
-- Session information
+- System preferences (as required by iOS)
 
-### Technical Data
-We automatically collect:
-- Device information
-- IP address
-- App version
-- System information
+### Audio Features
+Our app:
+- Processes audio playback data
+- Stores audio preferences
+- Does not record or store any audio from your device
+- Uses background audio capabilities for continuous playback
 
 ## How We Use Your Information
-We use the collected information to:
-- Provide and maintain the app
-- Authenticate users
-- Save user preferences
-- Enable audio playback features
-- Improve user experience
+
+### Essential Operations
+- User authentication and account management
+- Providing audio playback services
+- Saving user preferences
+- Maintaining app functionality
+
+### Technical Purposes
+- App performance optimization
+- Error tracking and debugging
+- System compatibility
+- Background audio playback management
 
 ## Data Storage and Security
 - Data is stored securely using Supabase
-- We implement industry-standard security measures
+- We use industry-standard encryption
+- Your data is stored in compliance with GDPR and CCPA requirements
 - We do not sell your personal information
 
 ## Third-Party Services
-We use the following third-party services:
+We use:
 - Supabase for data storage
-- Expo for app updates
-- Audio streaming services
+- Expo for app updates and deployment
+- Apple's authentication services (when applicable)
 
-## Your Rights
-You have the right to:
+## Your Rights and Choices
+You can:
 - Access your personal data
 - Request data deletion
 - Update your information
-- Opt-out of communications
+- Opt-out of optional data collection
+- Control app permissions through your device settings
 
-## Contact Us
-For privacy-related questions, contact us at: osman@thebayaan.com
+## Children's Privacy
+Our app does not knowingly collect information from children under 13.
 
 ## Changes to This Policy
-We may update this Privacy Policy. We will notify you of any changes by posting the new Privacy Policy on this page.
+We will notify you of any material changes to this policy through the app or via email.
+
+## Contact Information
+For privacy-related questions:
+Email: osman@thebayaan.com
+Website: https://www.thebayaan.com
+
+## California Privacy Rights
+California residents have additional rights under CCPA.
+
+## International Data Transfers
+We process data in accordance with GDPR requirements.
